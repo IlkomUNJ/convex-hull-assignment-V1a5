@@ -1,0 +1,31 @@
+# ninja log v5
+13	1817	7808568571062149	TUGAS2_autogen/timestamp	6bf16f28e6d64859
+13	1817	7808568571062149	TUGAS2_autogen/mocs_compilation.cpp	6bf16f28e6d64859
+13	1817	7808568571062149	D:/qt project/TUGAS2/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/TUGAS2_autogen/timestamp	6bf16f28e6d64859
+13	1817	7808568571062149	D:/qt project/TUGAS2/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/TUGAS2_autogen/mocs_compilation.cpp	6bf16f28e6d64859
+1834	9690	7808568651112921	CMakeFiles/TUGAS2.dir/main.cpp.obj	1a8d486ff3ba9603
+1830	10075	7808568654974202	CMakeFiles/TUGAS2.dir/TUGAS2_autogen/mocs_compilation.cpp.obj	81da3d64ddd716a4
+1839	10081	7808568655004192	CMakeFiles/TUGAS2.dir/drawingwindow.cpp.obj	af18e830db5bf4c0
+1843	11765	7808568671862800	CMakeFiles/TUGAS2.dir/drawingcanvas.cpp.obj	96cfd56ed104ab9f
+54	403	7808568720872381	TUGAS2_autogen/timestamp	6bf16f28e6d64859
+54	403	7808568720872381	TUGAS2_autogen/mocs_compilation.cpp	6bf16f28e6d64859
+54	403	7808568720872381	D:/qt project/TUGAS2/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/TUGAS2_autogen/timestamp	6bf16f28e6d64859
+54	403	7808568720872381	D:/qt project/TUGAS2/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/TUGAS2_autogen/mocs_compilation.cpp	6bf16f28e6d64859
+55	387	7808568931765400	TUGAS2_autogen/timestamp	6bf16f28e6d64859
+55	387	7808568931765400	TUGAS2_autogen/mocs_compilation.cpp	6bf16f28e6d64859
+55	387	7808568931765400	D:/qt project/TUGAS2/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/TUGAS2_autogen/timestamp	6bf16f28e6d64859
+55	387	7808568931765400	D:/qt project/TUGAS2/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/TUGAS2_autogen/mocs_compilation.cpp	6bf16f28e6d64859
+399	8637	7808569019708708	CMakeFiles/TUGAS2.dir/main.cpp.obj	1a8d486ff3ba9603
+8637	9395	7808569027184071	TUGAS2.exe	6db38fbf921f279a
+110	494	7809379952396528	TUGAS2_autogen/timestamp	6bf16f28e6d64859
+110	494	7809379952396528	TUGAS2_autogen/mocs_compilation.cpp	6bf16f28e6d64859
+110	494	7809379952396528	D:/qt project/TUGAS2/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/TUGAS2_autogen/timestamp	6bf16f28e6d64859
+110	494	7809379952396528	D:/qt project/TUGAS2/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/TUGAS2_autogen/mocs_compilation.cpp	6bf16f28e6d64859
+507	10270	7809380062383450	CMakeFiles/TUGAS2.dir/drawingcanvas.cpp.obj	96cfd56ed104ab9f
+10270	12282	7809380082378040	TUGAS2.exe	6db38fbf921f279a
+29	435	7809392254550225	TUGAS2_autogen/timestamp	6bf16f28e6d64859
+29	435	7809392254550225	TUGAS2_autogen/mocs_compilation.cpp	6bf16f28e6d64859
+29	435	7809392254550225	D:/qt project/TUGAS2/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/TUGAS2_autogen/timestamp	6bf16f28e6d64859
+29	435	7809392254550225	D:/qt project/TUGAS2/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/TUGAS2_autogen/mocs_compilation.cpp	6bf16f28e6d64859
+447	9273	7809392361343692	CMakeFiles/TUGAS2.dir/drawingcanvas.cpp.obj	96cfd56ed104ab9f
+9273	10163	7809392370168219	TUGAS2.exe	6db38fbf921f279a
